@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081302572380",
+    "project_id": "hostel-pg-app",
+    "storage_bucket": "hostel-pg-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081302572380:android:4e205b5eb54c853b4eb599",
+        "android_client_info": {
+          "package_name": "com.example.hostel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OtUud0-3wfeWccMYfM86uYb3OedB7DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081302572380:android:864c1ef5b419df664eb599",
+        "android_client_info": {
+          "package_name": "com.example.hostel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OtUud0-3wfeWccMYfM86uYb3OedB7DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
